@@ -1,0 +1,11 @@
+HOW TO START THE DEV ENVIRONMENT FOR FASTAPI
+
+#activate virtual environment	
+
+source venv/bin/activate
+
+#start fastapi from FASTAPI directory
+uvicorn app.main:app --reload
+
+#TimeStamp
+11.20
